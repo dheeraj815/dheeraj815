@@ -1,32 +1,84 @@
-# 👋 Hi, I'm Dheeraj Muley
+👋 HI, I’M DHEERAJ MULEY
 
-🎓 B.Tech AIML Student (2027) | 🧠 AI Engineer | 🤖  4 AI Projects Published on Github | 🛠️ Python, YOLOv8, OpenCV, NLP
-
----
-
+🎓 B.Tech AIML Student (2027)
+🧠 AI Engineer | Computer Vision & NLP Developer
+🚀 50+ AI Projects Built | 6 Public GitHub Repositories
+🛠️ Python | YOLOv8 | OpenCV | NLP | Streamlit
 ## 🚀 About Me
 Aspiring AI Engineer passionate about building real-world AI tools using computer vision, NLP, and automation.
 Completed 50+ projects combining YOLOv8, OpenCV, Streamlit, MediaPipe, and OpenAI APIs. I love solving practical problems using machine learning.
 
 ---
+🚀 ABOUT ME
 
-## 🧠 Core Skills
-- **Languages:** Python, HTML/CSS
-- **Frameworks:** Streamlit, Flask
-- **Libraries:** OpenCV, YOLOv8, MediaPipe, Pandas, NumPy, SpaCy
-- **Domains:** Computer Vision, NLP, Deep Learning, Chatbots
-- **Tools:** Git & GitHub, VS Code, Colab, Jupyter
+I am an aspiring AI Engineer focused on building real-world,
+production-ready AI solutions using Computer Vision, NLP,
+and intelligent automation.
 
+I have successfully built 50+ AI and ML projects, ranging from
+computer vision systems and NLP-based applications to full-stack
+AI dashboards and automation tools.
 
-## 🎯 Career Objective
-To apply AI/ML skills in building intelligent, real-time systems that solve real-world problems and make life easier.
+To maintain clean, high-quality repositories, only selected
+and well-documented projects (6+) are publicly available on GitHub,
+while many advanced, academic, and client-oriented projects are
+available on request or demonstrated via live demos.
 
----
+🧠 CORE SKILLS
 
-## 📫 Contact Me
-- ✉️ Email: dheerajmuley006@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/dheeraj-muley](https://www.linkedin.com/in/dheeraj-muley)
-- 🐙 GitHub: [github.com/dheeraj815](https://github.com/dheeraj815)
+Languages:
+• Python
+• HTML / CSS
 
----
+Frameworks:
+• Streamlit
+• Flask
+
+Libraries & AI Tools:
+• OpenCV
+• YOLOv8
+• MediaPipe
+• NumPy
+• Pandas
+• SpaCy
+
+Domains:
+• Computer Vision
+• Natural Language Processing (NLP)
+• Deep Learning
+• AI Automation
+• Chatbots
+• Intelligent Web Applications
+
+Developer Tools:
+• Git & GitHub
+• VS Code
+• Jupyter Notebook
+• Google Colab
+
+🧪 PROJECT EXPERIENCE HIGHLIGHTS
+
+• Real-time Object Detection & Tracking using YOLOv8
+• Face Recognition & Attendance Systems
+• AI Medical Diagnosis & Health Assistant
+• Movie Recommendation System using NLP
+• House Price Prediction using Machine Learning
+• AI-powered Rock Paper Scissors (RPS-AI)
+• Interactive AI Dashboards & Web Apps (Streamlit)
+• Automation & Smart Monitoring Systems
+
+Public GitHub Repositories: 6
+Total Projects Built: 50+
+
+🎯 CAREER OBJECTIVE
+
+To work as an AI/ML Engineer where I can design and build
+scalable, intelligent, real-time systems that solve real-world
+problems and create meaningful impact using artificial intelligence.
+
+📫 CONTACT ME
+
+✉️ Email   : dheerajmuley006@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/dheeraj-muley
+🐙 GitHub  : https://github.com/dheeraj815
 
