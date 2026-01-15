@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Dheeraj Muley
 
-🎓 B.Tech AIML Student (2027) | 🧠 AI Engineer | 🤖 13+ AI Projects Published | 🛠️ Python, YOLOv8, OpenCV, NLP
+🎓 B.Tech AIML Student (2027) | 🧠 AI Engineer | 🤖  4 AI Projects Published on Github | 🛠️ Python, YOLOv8, OpenCV, NLP
 
 ---
 
 ## 🚀 About Me
 Aspiring AI Engineer passionate about building real-world AI tools using computer vision, NLP, and automation.
-Completed 13+ projects combining YOLOv8, OpenCV, Streamlit, MediaPipe, and OpenAI APIs. I love solving practical problems using machine learning.
+Completed 50+ projects combining YOLOv8, OpenCV, Streamlit, MediaPipe, and OpenAI APIs. I love solving practical problems using machine learning.
 
 ---
 
