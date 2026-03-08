@@ -16,7 +16,7 @@ I am an aspiring AI Engineer focused on building real-world,
 production-ready AI solutions using Computer Vision, NLP,
 and intelligent automation.
 
-I have successfully built 70+ AI and ML projects, ranging from
+I have successfully built 50+ AI and ML projects, ranging from
 computer vision systems and NLP-based applications to full-stack
 AI dashboards and automation tools.
 
