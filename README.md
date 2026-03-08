@@ -83,8 +83,7 @@ problems and create meaningful impact using artificial intelligence.
 🎴 Gamma Site  : https://dheeraj-muley-ai-567kme2.gamma.site
 🌐 Vercel App  : https://y-gray-delta.vercel.app/#app
 🏥 AI Medical  : https://ai-medical-diagnosis-health-assistant.streamlit.app
-✊ RPS AI       : https://rps-ai-l3uo.onrender.com
-🤖 AI Chatbot  : https://dheeraj-7uap.onrender.com
+✊ RPS AI      : https://rps-ai-l3uo.onrender.com
 
 📫 CONTACT ME
 
