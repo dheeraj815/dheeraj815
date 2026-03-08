@@ -68,8 +68,8 @@ Tools
 - 📊 Interactive AI Dashboards (Streamlit)
 - 🤖 Smart Automation Systems
 
-📊 Projects Built: 50+
-📦 Public Repositories: 11
+🚀 Projects Built: 50+
+⭐ Public Repositories: 11
 
 ---
 
