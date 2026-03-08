@@ -69,7 +69,7 @@ Developer Tools:
 - Automation & Smart Monitoring Systems
 
 Public GitHub Repositories: 11
-Total Projects Built: 70+
+Total Projects Built: 50+
 
 🎯 CAREER OBJECTIVE
 
