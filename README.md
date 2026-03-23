@@ -2,7 +2,7 @@
 
 🎓 B.Tech AIML Student (2027)
 🧠 AI Engineer | Computer Vision & NLP Developer
-🚀 50+ AI Projects Built | 11 Public GitHub Repositories
+🚀 80+ AI Projects Built | 11 Public GitHub Repositories
 
 ---
 
@@ -11,7 +11,7 @@
 I am an aspiring AI Engineer passionate about building real-world intelligent
 systems using Computer Vision, NLP, and Machine Learning.
 
-I have built 50+ AI/ML projects, including:
+I have built 80+ AI/ML projects, including:
 
 - Computer Vision systems using YOLOv8 & OpenCV
 - NLP applications using SpaCy & ML models
@@ -75,7 +75,7 @@ Tools
 
 🌐 Portfolio & Live Projects
 
-- 🌍 Portfolio   : https://dheerajmuley.netlify.app
+- 🌍 Portfolio   : https://dheerajmuley.vercel.app/
 - 🎴 Gamma Site  : https://dheeraj-muley-ai-567kme2.gamma.site
 - 🚀 Vercel App  : https://y-gray-delta.vercel.app/#app
 - 🏥 AI Medical  : https://ai-medical-diagnosis-health-assistant.streamlit.app
@@ -98,7 +98,7 @@ Tools
 - 📧 Email    : dheerajmuley006@gmail.com
 - 💼 LinkedIn : https://www.linkedin.com/in/dheeraj-muley
 - 🐙 GitHub   : https://github.com/dheeraj815
-- 🌍 Portfolio: https://dheerajmuley.netlify.app
+- 🌍 Portfolio: https://dheerajmuley.vercel.app/
 
 ---
 
