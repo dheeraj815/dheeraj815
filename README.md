@@ -2,7 +2,7 @@
 
 🎓 B.Tech AIML Student (2027)
 🧠 AI Engineer | Computer Vision & NLP Developer
-🚀 80+ AI Projects Built | 11 Public GitHub Repositories
+🚀 80+ AI Projects Built | 12 Public GitHub Repositories
 
 ---
 
