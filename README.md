@@ -4,7 +4,7 @@
 
 Passionate AI Engineer focused on building intelligent real-world applications using Computer Vision, Machine Learning, NLP, and AI Automation.
 
-Built and deployed **80+ AI/ML projects** across healthcare AI, automation systems, intelligent dashboards, computer vision applications, and real-time monitoring solutions.
+Built and deployed **90+ AI/ML projects** across healthcare AI, automation systems, intelligent dashboards, computer vision applications, and real-time monitoring solutions.
 
 Maintaining **16 professional public repositories** showcasing production-ready AI projects, live demos, and deployable applications.
 
