@@ -2,191 +2,246 @@
 
 ### AI/ML Engineer | Agentic AI Developer | Computer Vision & NLP
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning — 2027
+🎓 **B.Tech in Artificial Intelligence & Machine Learning — 2027**
 
-I build practical AI/ML applications focused on **Computer Vision, Machine Learning, NLP, AI Automation, and intelligent real-time systems**.
+I am an aspiring **AI/ML Engineer** focused on building practical and deployable intelligent applications using **Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI, and AI Automation**.
 
-🚀 **90+ AI/ML projects built**  
-📂 **23 professional public repositories**  
-🧠 Focused on AI/ML, Computer Vision, NLP & Automation  
-🌐 Building and deploying real-world AI applications
+🚀 **90+ AI/ML Projects Built**  
+📂 **23 Public GitHub Repositories**  
+🧠 **AI/ML • Computer Vision • NLP • Agentic AI**  
+🌐 **Multiple Live AI Applications**
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm an aspiring **AI/ML Engineer** who enjoys turning AI concepts into practical software applications.
+I enjoy transforming AI concepts into practical software applications that solve real-world problems.
 
-My work includes:
+My work focuses on combining **AI models, software development, automation, interactive interfaces, and real-time processing**.
 
-- 🤖 Machine Learning & Artificial Intelligence
-- 👁️ Computer Vision & Object Detection
+### Areas of Interest
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
 - 💬 Natural Language Processing
 - 🧠 Deep Learning
+- 🎯 Agentic AI
 - ⚡ AI Automation
-- 📊 AI-powered Dashboards
-- 🎯 Real-Time Intelligent Applications
-
-I focus on building projects that combine **AI models, software engineering, interactive interfaces, and real-time processing**.
+- 📊 Intelligent Dashboards
+- 🔴 Real-Time AI Systems
+- 🔎 Recommendation Systems
+- 🏥 AI-powered Applications
 
 ---
 
-## 🧠 Technical Skills
+# 🧠 Technical Skills
 
-### 💻 Programming
+## 💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Development Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI / ML
+---
+
+## 🤖 AI / Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**AI Technologies**
+### Core Technologies
 
-- Computer Vision
-- Object Detection & Tracking
-- YOLOv8
-- Image Processing
-- MediaPipe
-- Natural Language Processing
 - Machine Learning
 - Deep Learning
-- AI Automation
+- Computer Vision
+- Natural Language Processing
+- Object Detection
+- Object Tracking
+- Image Processing
 - Recommendation Systems
-- Intelligent Monitoring Systems
+- AI Automation
+- Intelligent Monitoring
+- Real-Time AI Applications
+- Agentic AI
 
 ---
 
-# 🚀 Featured Projects
+# ⚙️ Frameworks & Development Tools
 
-### 👁️ Real-Time Object Detection & Tracking
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-Computer vision systems using **YOLOv8 and OpenCV** for real-time object detection, tracking, and intelligent monitoring.
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🏥 AI Medical Diagnosis & Health Assistant
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-AI-powered application designed to analyze user-provided symptoms and provide intelligent health-related guidance.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🎬 Movie Recommendation System
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Machine-learning-based recommendation system designed to generate personalized movie recommendations.
+### Tools
 
-### 👤 Face Recognition Attendance System
-
-Computer vision application for automated attendance using facial recognition technology.
-
-### 🏠 House Price Prediction
-
-Machine learning application for predicting housing prices using regression techniques and data analysis.
-
-### ✊ AI Rock Paper Scissors
-
-Real-time computer vision game using **hand gesture recognition and MediaPipe**.
-
-### 📊 AI Analytics Dashboards
-
-Interactive **Streamlit dashboards** for machine learning results, analytics, monitoring, and visualization.
-
-### 🤖 AI Automation Systems
-
-AI-powered automation projects designed to simplify repetitive workflows and integrate intelligent decision-making.
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Streamlit
+- Flask
+- REST APIs
+- Model Deployment
 
 ---
 
-# 📊 GitHub Overview
+# 🔥 Featured AI Projects
+
+## 👁️ Real-Time Object Detection & Tracking
+
+Computer vision applications using **YOLOv8 and OpenCV** for real-time object detection, tracking, and intelligent monitoring.
+
+**Tech:** Python • YOLOv8 • OpenCV • Computer Vision
+
+---
+
+## 🏥 AI Medical Diagnosis & Health Assistant
+
+AI-powered healthcare application designed to analyze user-provided symptoms and provide intelligent health-related guidance.
+
+**Tech:** Python • Machine Learning • NLP • Streamlit
+
+🔗 **Live:**  
+https://ai-medical-diagnosis-health-assistant.streamlit.app
+
+---
+
+## ✊ AI Rock Paper Scissors
+
+Real-time gesture-controlled game using computer vision and hand-tracking technology.
+
+**Tech:** Python • OpenCV • MediaPipe
+
+🔗 **Live:**  
+https://rps-ai-l3uo.onrender.com
+
+---
+
+## 👤 Face Recognition Attendance System
+
+Computer vision-based attendance system designed to automate attendance using facial recognition.
+
+**Tech:** Python • OpenCV • Face Recognition
+
+---
+
+## 🎬 Movie Recommendation System
+
+Machine-learning-based recommendation engine designed to generate personalized movie recommendations.
+
+**Tech:** Python • Pandas • Scikit-learn • NLP
+
+---
+
+## 🏠 House Price Prediction
+
+Machine learning application for predicting housing prices using regression techniques and data analytics.
+
+**Tech:** Python • Pandas • Scikit-learn • Streamlit
+
+---
+
+## 📊 AI Analytics Dashboards
+
+Interactive dashboards for machine learning results, analytics, monitoring, and data visualization.
+
+**Tech:** Python • Streamlit • Pandas • Machine Learning
+
+---
+
+## 🤖 AI Automation Systems
+
+AI-powered automation applications designed to simplify repetitive workflows and introduce intelligent decision-making.
+
+**Tech:** Python • AI/ML • Automation • APIs
+
+---
+
+# 📂 GitHub Portfolio
+
+### 📊 Developer Overview
 
 | Metric | Details |
 |---|---|
 | 🚀 AI/ML Projects | **90+** |
 | 📂 Public Repositories | **23** |
-| 🧠 Primary Focus | AI/ML, CV, NLP & Automation |
-| 🌐 Deployments | Multiple Live Applications |
-| 🎓 Education | B.Tech AIML — 2027 |
+| 🧠 Primary Focus | **AI/ML, CV, NLP & Agentic AI** |
+| ⚡ Automation | **AI-powered workflows** |
+| 🌐 Live Applications | **Multiple** |
+| 🎓 Education | **B.Tech AIML — 2027** |
+
+### 🔗 Explore My GitHub
+
+📂 **All Repositories**  
+https://github.com/dheeraj815?tab=repositories
+
+🐙 **GitHub Profile**  
+https://github.com/dheeraj815
 
 ---
 
 # 🌐 Portfolio & Live Applications
 
-### 🌍 Portfolio
+### 🌍 Portfolio Website
 
-👉 https://dheerajmuley.vercel.app/
+🔗 https://dheerajmuley.vercel.app/
+
+---
 
 ### 🎴 AI Professional Profile
 
-👉 https://dheeraj-muley-ai-567kme2.gamma.site
+🔗 https://dheeraj-muley-ai-567kme2.gamma.site
+
+---
 
 ### 🚀 AI Web Application
 
-👉 https://y-gray-delta.vercel.app/#app
+🔗 https://y-gray-delta.vercel.app/#app
+
+---
 
 ### 🏥 AI Medical Diagnosis Assistant
 
-👉 https://ai-medical-diagnosis-health-assistant.streamlit.app
+🔗 https://ai-medical-diagnosis-health-assistant.streamlit.app
+
+---
 
 ### ✊ AI Rock Paper Scissors
 
-👉 https://rps-ai-l3uo.onrender.com
+🔗 https://rps-ai-l3uo.onrender.com
 
 ---
 
-# 📈 GitHub Statistics
+# 🎯 Current Focus
 
-<!-- GitHub Stats -->
+I am currently strengthening my expertise across the following areas:
 
-![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj815&show_icons=true&theme=tokyonight&hide_border=true)
-
-<!-- Top Languages -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj815&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 📫 Connect With Me
-
-📧 **Email:** dheerajmuley006@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/dheeraj-muley
-
-🐙 **GitHub:**  
-https://github.com/dheeraj815
-
-🌐 **Portfolio:**  
-https://dheerajmuley.vercel.app/
-
----
-
-# 🎯 Career Focus
-
-Currently focused on becoming a strong **AI/ML Engineer** by building practical systems in:
-
-**Machine Learning → Deep Learning → Computer Vision → NLP → Agentic AI → AI Automation**
-
-I am interested in opportunities where I can work on **real-world AI products, intelligent automation, computer vision, NLP, and machine learning systems**.
-
----
-
-# ⚡ Fun Fact
-
-> I enjoy turning AI ideas into working applications that people can actually interact with.
-
----
-
-## ⭐ Thanks for Visiting!
-
-If you find my projects interesting, feel free to ⭐ the repositories and connect with me.
-
-**Building. Learning. Deploying. 🚀**
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Computer Vision
+      ↓
+Natural Language Processing
+      ↓
+Generative AI
+      ↓
+Agentic AI
+      ↓
+AI Automation
+      ↓
+Production AI Applications
