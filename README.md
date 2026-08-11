@@ -7,7 +7,7 @@
 I build practical AI/ML applications focused on **Computer Vision, Machine Learning, NLP, AI Automation, and intelligent real-time systems**.
 
 🚀 **90+ AI/ML projects built**  
-📂 **16 professional public repositories**  
+📂 **23 professional public repositories**  
 🧠 Focused on AI/ML, Computer Vision, NLP & Automation  
 🌐 Building and deploying real-world AI applications
 
@@ -111,7 +111,7 @@ AI-powered automation projects designed to simplify repetitive workflows and int
 | Metric | Details |
 |---|---|
 | 🚀 AI/ML Projects | **90+** |
-| 📂 Public Repositories | **16** |
+| 📂 Public Repositories | **23** |
 | 🧠 Primary Focus | AI/ML, CV, NLP & Automation |
 | 🌐 Deployments | Multiple Live Applications |
 | 🎓 Education | B.Tech AIML — 2027 |
