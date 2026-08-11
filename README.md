@@ -1,169 +1,192 @@
 # 👋 Hi, I'm Dheeraj Muley
 
-### AI/ML Engineer | Agentic AI Developer | Computer Vision & NLP Developer | B.Tech AIML (2027)
+### AI/ML Engineer | Agentic AI Developer | Computer Vision & NLP
 
-Passionate AI Engineer focused on building intelligent real-world applications using Computer Vision, Machine Learning, NLP, and AI Automation.
+🎓 B.Tech in Artificial Intelligence & Machine Learning — 2027
 
-Built and deployed **90+ AI/ML projects** across healthcare AI, automation systems, intelligent dashboards, computer vision applications, and real-time monitoring solutions.
+I build practical AI/ML applications focused on **Computer Vision, Machine Learning, NLP, AI Automation, and intelligent real-time systems**.
 
-Maintaining **16 professional public repositories** showcasing production-ready AI projects, live demos, and deployable applications.
-
----
-
-# 🚀 About Me
-
-I specialize in:
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 👁 Computer Vision using YOLOv8 & OpenCV
-* 💬 Natural Language Processing (NLP)
-* 🧠 Deep Learning & AI Automation
-* 📊 Interactive AI Dashboards
-* ⚡ Real-Time Intelligent Systems
-
-I enjoy transforming innovative AI ideas into practical applications with clean UI, real-time processing, and scalable deployment.
+🚀 **90+ AI/ML projects built**  
+📂 **16 professional public repositories**  
+🧠 Focused on AI/ML, Computer Vision, NLP & Automation  
+🌐 Building and deploying real-world AI applications
 
 ---
 
-# 🧠 Technical Skills
+## 🚀 About Me
 
-## 💻 Programming Languages
+I'm an aspiring **AI/ML Engineer** who enjoys turning AI concepts into practical software applications.
 
-* Python
-* HTML
-* CSS
+My work includes:
 
-## ⚙ Frameworks & Tools
+- 🤖 Machine Learning & Artificial Intelligence
+- 👁️ Computer Vision & Object Detection
+- 💬 Natural Language Processing
+- 🧠 Deep Learning
+- ⚡ AI Automation
+- 📊 AI-powered Dashboards
+- 🎯 Real-Time Intelligent Applications
 
-* Streamlit
-* Flask
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
-* Google Colab
-
-## 🧪 AI / ML Libraries
-
-* OpenCV
-* YOLOv8
-* MediaPipe
-* NumPy
-* Pandas
-* Scikit-learn
-* SpaCy
+I focus on building projects that combine **AI models, software engineering, interactive interfaces, and real-time processing**.
 
 ---
 
-# 🔥 Core Domains
+## 🧠 Technical Skills
 
-* Computer Vision
-* Natural Language Processing (NLP)
-* Machine Learning
-* Deep Learning
-* AI Automation
-* Intelligent Monitoring Systems
-* Chatbots & AI Assistants
-* Real-Time AI Applications
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Development Tools
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🤖 AI / ML
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**AI Technologies**
+
+- Computer Vision
+- Object Detection & Tracking
+- YOLOv8
+- Image Processing
+- MediaPipe
+- Natural Language Processing
+- Machine Learning
+- Deep Learning
+- AI Automation
+- Recommendation Systems
+- Intelligent Monitoring Systems
 
 ---
 
 # 🚀 Featured Projects
 
-## 👁 Real-Time Object Detection & Tracking
+### 👁️ Real-Time Object Detection & Tracking
 
-Advanced object detection and tracking systems built using YOLOv8 and OpenCV for real-time intelligent monitoring.
+Computer vision systems using **YOLOv8 and OpenCV** for real-time object detection, tracking, and intelligent monitoring.
 
-## 🏥 AI Medical Diagnosis & Health Assistant
+### 🏥 AI Medical Diagnosis & Health Assistant
 
-AI-powered healthcare assistant capable of symptom analysis and intelligent recommendations.
+AI-powered application designed to analyze user-provided symptoms and provide intelligent health-related guidance.
 
-## 🎬 Movie Recommendation System
+### 🎬 Movie Recommendation System
 
-NLP-based recommendation engine using machine learning algorithms for personalized suggestions.
+Machine-learning-based recommendation system designed to generate personalized movie recommendations.
 
-## 👤 Face Recognition Attendance System
+### 👤 Face Recognition Attendance System
 
-Automated attendance management system powered by facial recognition and computer vision.
+Computer vision application for automated attendance using facial recognition technology.
 
-## 🏠 House Price Prediction ML App
+### 🏠 House Price Prediction
 
-Machine learning web application for predicting housing prices using regression models and data analytics.
-
-## ✊ AI Rock Paper Scissors Game
-
-Gesture-controlled AI game using computer vision and hand-tracking technology.
-
-## 📊 Interactive AI Dashboards
-
-Streamlit-powered dashboards for analytics, monitoring, and machine learning visualization.
-
-## 🤖 Smart Automation Systems
-
-Built automation tools integrating AI models with real-time workflows and monitoring systems.
-
----
-
-# 📈 GitHub Overview
-
-* 🚀 AI/ML Projects Built: **80+**
-* ⭐ Public GitHub Repositories: **16**
-* 🧠 Specialized in: Computer Vision, NLP & AI Automation
-* 🌐 Multiple Live AI Deployments
-
----
-
-# 🌐 Portfolio & Live Projects
-
-### 🌍 Portfolio Website
-
-https://dheerajmuley.vercel.app/
-
-### 🎴 Professional AI Profile
-
-https://dheeraj-muley-ai-567kme2.gamma.site
-
-### 🚀 AI Web Application
-
-https://y-gray-delta.vercel.app/#app
-
-### 🏥 AI Medical Diagnosis Assistant
-
-https://ai-medical-diagnosis-health-assistant.streamlit.app
+Machine learning application for predicting housing prices using regression techniques and data analysis.
 
 ### ✊ AI Rock Paper Scissors
 
-https://rps-ai-l3uo.onrender.com
+Real-time computer vision game using **hand gesture recognition and MediaPipe**.
+
+### 📊 AI Analytics Dashboards
+
+Interactive **Streamlit dashboards** for machine learning results, analytics, monitoring, and visualization.
+
+### 🤖 AI Automation Systems
+
+AI-powered automation projects designed to simplify repetitive workflows and integrate intelligent decision-making.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj815\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dheeraj815\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj815\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-# 📫 Contact Me
-
-📧 Email: [dheerajmuley006@gmail.com](mailto:dheerajmuley006@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/dheeraj-muley
-
-🐙 GitHub: https://github.com/dheeraj815
-
-🌐 Portfolio: https://dheerajmuley.vercel.app/
+| Metric | Details |
+|---|---|
+| 🚀 AI/ML Projects | **90+** |
+| 📂 Public Repositories | **16** |
+| 🧠 Primary Focus | AI/ML, CV, NLP & Automation |
+| 🌐 Deployments | Multiple Live Applications |
+| 🎓 Education | B.Tech AIML — 2027 |
 
 ---
 
-# ⭐ Career Objective
+# 🌐 Portfolio & Live Applications
 
-Aspiring AI/ML Engineer focused on developing impactful intelligent systems in Computer Vision, NLP, Agentic AI, and Automation while continuously learning and contributing to innovative technologies.
+### 🌍 Portfolio
+
+👉 https://dheerajmuley.vercel.app/
+
+### 🎴 AI Professional Profile
+
+👉 https://dheeraj-muley-ai-567kme2.gamma.site
+
+### 🚀 AI Web Application
+
+👉 https://y-gray-delta.vercel.app/#app
+
+### 🏥 AI Medical Diagnosis Assistant
+
+👉 https://ai-medical-diagnosis-health-assistant.streamlit.app
+
+### ✊ AI Rock Paper Scissors
+
+👉 https://rps-ai-l3uo.onrender.com
+
+---
+
+# 📈 GitHub Statistics
+
+<!-- GitHub Stats -->
+
+![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj815&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj815&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** dheerajmuley006@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/dheeraj-muley
+
+🐙 **GitHub:**  
+https://github.com/dheeraj815
+
+🌐 **Portfolio:**  
+https://dheerajmuley.vercel.app/
+
+---
+
+# 🎯 Career Focus
+
+Currently focused on becoming a strong **AI/ML Engineer** by building practical systems in:
+
+**Machine Learning → Deep Learning → Computer Vision → NLP → Agentic AI → AI Automation**
+
+I am interested in opportunities where I can work on **real-world AI products, intelligent automation, computer vision, NLP, and machine learning systems**.
 
 ---
 
 # ⚡ Fun Fact
 
-I love building AI systems that combine intelligence, automation, and real-time interaction to solve practical real-world problems.
+> I enjoy turning AI ideas into working applications that people can actually interact with.
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you find my projects interesting, feel free to ⭐ the repositories and connect with me.
+
+**Building. Learning. Deploying. 🚀**
