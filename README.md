@@ -6,8 +6,8 @@
 
 I am an aspiring **AI/ML Engineer** focused on building practical and deployable intelligent applications using **Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI, and AI Automation**.
 
-🚀 **90+ AI/ML Projects Built**  
-📂 **23 Public GitHub Repositories**  
+🚀 **100+ AI/ML Projects Built**  
+📂 **27 Public GitHub Repositories**  
 🧠 **AI/ML • Computer Vision • NLP • Agentic AI**  
 🌐 **Multiple Live AI Applications**
 
